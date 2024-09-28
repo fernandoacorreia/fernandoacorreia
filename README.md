@@ -1,4 +1,4 @@
-I'm a principal software engineer at [Domino Data Lab](https://www.dominodatalab.com/). We're [hiring](https://grnh.se/407a3e121us)!
+I'm a tech lead and architect with extensive experience in architecting and implementing scalable and complex software systems.
 
 Opinions expressed here are my own, not my employer’s.
 
